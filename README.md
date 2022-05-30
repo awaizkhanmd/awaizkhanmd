@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awaizkhanmd
 - 👀 I’m interested in ...cooding
-- 🌱 I’m currently learning ...java
+- 🌱 I’m currently learning ...javaScript,HTML,CSS,NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...9959198231
 
