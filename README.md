@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Awaiz
-- 📫 How to reach me ...https://awaiz.dev/contact
+- 📫 How to reach me  - https://awaiz.dev/contact
 
 <!---
 awaizkhanmd/awaizkhanmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
